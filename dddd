@@ -1,0 +1,182 @@
+<!DOCTYPE html><html class="" lang="en">
+<title>mi</title>
+<link rel="shortcut icon" href="https://www.up-00.com/i/00143/krdrnxovmlzr.png" type="image/x-icon">
+
+<body onselectstart="return false" oncontextmenu="return false" ondragstart="return false" onMouseOver="window.status='..message perso .. '; return true;" >
+
+<header class="mainHeader"><div class="headerpage"><div class="marg_head"><a href="" class="logo"><img style="margin-left:-10px;margin-top:-15px;"src="https://www.up-00.com/i/00143/krdrnxovmlzr.png">
+</a><div class="loginBtn"><span class="">Your security is our top priority.</span>
+<div class="loginForm__button"><a href="page_insc2.html"><button type="submit" class="button --btn_login">login</button></a></div>
+</div></div></div></header>
+
+ <div class=""></div><main class="">
+<section id="content" ><section id="main" class=""><div id="create" class="create marg_head grid">
+ <div class="valueProp bol"><header><h2 style="font-size:14px;margin-left:52px;">welcome to synapes.com your world with you let's go now</h2></header><div class="Image_background"></div></div><div class="bol">
+ 
+ <div id="login" class="marg_cart login_car"><div id="dest" class="login login_car_borde"><div id="fon_login" class="fon_login"><div><a href="" class="title_marg title_signin">Sign Up</a></div></div><div id="">
+ 
+ 
+ <form id="" class="simplef" method="POST" action="">
+ 
+  <p id="" class=" input_user_mail"><label for="username" class=""></label><input placeholder="username" id="" name="username" class="" autocomplete="off" type="text"  pattern="[A-Za-z0-9_]{3,15}" required></p>
+
+ <!-- <p id="" class=" input_user_mail"><label for="username" class=""></label><input placeholder="First Name" id="" name="First Name" class="" autocomplete="off" type="text"  pattern="[A-Za-z0-9_]{3,15}" required></p>
+ <p id="" class=" input_user_mail"><label for="username" class=""></label><input placeholder="Last Name" id="" name="Last Name" class="" autocomplete="off" type="text" pattern="[A-Za-z0-9_]{3,15}" required></p>
+  -->
+ <p id="" class=" input_user_mail"><label for="email" class=""></label><input placeholder="address electronic" id="" name="email" class="" autocomplete="off" type="text" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$"required></p>
+ <p class="input_password_user"><label for="password1" class=""></label><input placeholder="password (ex: Hello123456)"  id="password1" name="password" class="" type="password" pattern="^(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?!.*\s).*$"   onkeyup="testPass();" required> </p>
+<p class="input_password_user"><label for="password2" class=""></label><input placeholder="Confirm password"  id="password2" name="" class="" type="password" pattern="^(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?!.*\s).*$"  onkeyup="testPass();" required>
+<span id="message_erreur" class="message_erreur"></span>
+<p class="brt"><input id="" value="inscription" class="signin_btn" type="submit"><a class="forget_pass" href="" target="">forget password?</a></p>
+
+</form></div>
+					
+					<br><div class="notes"><p><font>notes:</font><br>if do you want connect with your address and username please enter your info</p></div></div>   </div>
+                    </div>
+                </div>
+            </div>
+	
+              <style>
+
+	.message_erreur{ margin: 0; padding: 0; font-size: .8em; font-family:arial;}
+
+	
+h3, h4, h5, h6, p,
+h2{font-size:13px;}
+summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: inherit;
+}
+
+ body{min-height:100%;margin:0;padding:0;
+ color:#686159;font-family:Helvetica,Arial,sans-serif;font-size:87.5%;-webkit-font-smoothing:antialiased;
+-webkit-backface-visibility:hidden}ul,ol,li{margin:0;padding:0}p{font-size:1.14285714em;font-family:"Helvetica Neue",
+ Helvetica,Arial,sans-serif;color:#333}
+.marg_head{margin:0 1.041667%}
+
+
+
+ .bol{width:50%;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;display:inline-block;
+ vertical-align:top}.grid{width:100%}
+
+#main{width:960px;margin:0 auto}#main header{width:95%}.center{margin:0 auto}header.mainHeader{min-height:72px;margin:0;border-bottom:1px solid rgba(0,0,0,.1);background:#fff}.headerpage{width:960px;margin:0 auto;border-bottom:1px solid #fff;overflow:auto}header.mainHeader .logo{width:124px;height:29px;margin:21px 0;display:block;float:left;}
+
+ .loginBtn{margin-top:21px;float:right} .logoutBtn span,header.mainHeader .loginBtn span{margin:0 5px}p{font-size:1em}main{margin:0;padding:30px 0 50px;position:relative}{header.mainHeader{width:100%;margin:0}header.mainHeader .headerpage{width:auto}section #main{width:100%}
+
+ .headerpage{width:100%}header.mainHeader .logo{width:50px;background:url() no-repeat;background-size:50px 29px}.loginBtn{margin-top:15px}main{padding:0}}
+
+.Image_background{margin-top:15px;height:400px;width:150%;}
+.Image_background{margin-left:-170px;background-image:url(https://www.viber.com/app/uploads/2_desktop.png);}
+
+
+.marg_cart {width: 38px;margin-left: 145px;margin-top: -4px;}
+#login .notes { width: 380px;padding-top: 17px;padding-bottom: 15px;background: #FFF;}
+#login .notes p {width: 298px;margin: 0 auto;border-top: 1px solid #E5E5E5; padding-top: 10px;font-size: 12px;color: #333;line-height: 20px;}
+.notes p font {font-weight: bold;}
+#login .login{width: 380px;}
+
+#login .fon_login {height:38px;background: #FFF;}
+#login .fon_login a {height: 48px;width: 150px;line-height: 48px;text-align: center;}
+#login .fon_login a.title_signin {font-weight:bold;height: 47px;font-size:14px;color:#3399ff;border-bottom: 2px solid #3399ff;}
+#login .fon_login a{ margin: 0 0 0 110px;width: 140px;}
+.fon_login a{color:#a1a6b7;display:inline-block;height:20px}
+
+#login #dest form {background: #FFF;padding-top: 39px;}
+#login .login_car_borde {border: 1px solid #e5e5e580;}
+#login .input_user_mail,
+#login .input_password_user,#login .password {width: 298px;height: 38px;border: 1px solid #ccc3;margin: 0 auto 20px auto;}
+
+#login .input_user_mail input,
+#login .input_password_user input,
+#login .account input,
+#login .password input {color:#4d4d4d;width:253px;height:28px;line-height:28px;font-size:12px;font-weight:600;font-family:sans-serif;}
+#login .input_user_mail label,#login .input_password_user label,
+#login .password span {width: 12px;height: 13px;margin-top: 12px;background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAcCAYAAACUJBTQAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA4ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDoyYTJmNzc4My1kNTk3LTQ4ZGQtODY5OS0xYzcwM2VhMDczZTciIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6MEE5MTY1RkE0NjNEMTFFNUFBOEE4QTdFODQ3OTQwRDciIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6MEE5MTY1Rjk0NjNEMTFFNUFBOEE4QTdFODQ3OTQwRDciIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUgKE1hY2ludG9zaCkiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo4MTFmYmRkMC05OWZmLTRkNjMtYjVlMC1iYTI0M2NiM2M1MWQiIHN0UmVmOmRvY3VtZW50SUQ9ImFkb2JlOmRvY2lkOnBob3Rvc2hvcDowNzI0ZGI3NC03NTU2LTExNzgtOTkyNS05OGU4NTNjOTY0MTgiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz5xNfd3AAABj0lEQVR42uyUTStEURjHz9zxtrAQWbERy1nJhthMKSKUyEYiKRYsLPgCYslCKJEPoGRBIQsLWVHeiiaxkJ3CZmLE76nn6nS7M3OHLGT+9euc+5xzn/89L/cJmaUPo8qBMeiDcriDVZiHd5NcUZiEWpBkRzAD++6EkJqEYQNafZKsQ5cm8GoIFsCBG8iHMp07AotGB0UDSQxEndDjE5fVzkEC2qFSYy0Qh1l9/jLpNqnlZyIfVQDLsGnFt2BFV9VmmxSnMfEbL9L2wmfsUtsy97BF11CdwuTK81wFHdqf0O22VaptE6y5B18HB3oBvHrVm3Nsxc4gYoLp3N2uQxiGN88EOcBBj0FhBgaiiGvSCL0+Exy9pg1WLGwylCRphm1NlOsZz4N62NP2WxKT6QBfJ2ZTPzEJur812j7BQwYe947PYSdTwupLfbsN8I7M6Zf/pET/znSKW/1dqAi6lFAsFjO/Lcfqy6rG4RQe4QRGA1wKKfU78ALP2o/6rSRb6v9bqdeDz5b6bKn/o6X+U4ABAHjidzeHyf9wAAAAAElFTkSuQmCC) no-repeat;}
+
+#login .input_user_mail label{ background-position: 0 -15px;}
+#login .input_password_user label{background-position: -13px -15px;}
+#login .input_user_mail:hover,
+#login .input_password_user:hover,
+#login .account:hover,
+#login .password:hover {border-color: #249CFA;}
+#login .input_user_mail:hover label,
+#login .account:hover span {background-position: 0 0;}
+#login .input_password_user:hover label,
+#login .password:hover span {background-position: -13px 0;}
+
+#login .signin_btn, #login .submit {margin-top:12px;font-weight:bold;width:270px;display:inline-block;*display:inline;*zoom:1;padding:0 10px;font-size:18px;font-family:arial;line-height:35px;color:#FFF;text-align:center;cursor:pointer;
+
+margin: 0 auto;display: block;-webkit-border-radius: 3px;-moz-border-radius: 3px;border-radius: 3px;width: 300px;height: 40px;font-size: 16px;
+color: #FFF;text-align: center;text-decoration: none;background: #108cee;border: none;background-image: -webkit-linear-gradient(top, #108cee, #0765e4);
+ background-image: -moz-linear-gradient(top, #108cee, #0765e4);background-image: -moz-linear-gradient(to bottom, #108cee, #0765e4);
+ background-image: -o-linear-gradient(to bottom, #108cee, #0765e4);background-image: linear-gradient(to bottom, #108cee, #0765e4);}
+ 
+#login .signin_btn:hover,
+#login .submit:hover {color: #FFF;background-image: -webkit-linear-gradient(top, #108cee, #014fde);background-image: -moz-linear-gradient(top, #108cee, #014fde);
+background-image: -moz-linear-gradient(to bottom, #108cee, #014fde);background-image: -o-linear-gradient(to bottom, #108cee, #014fde);
+background-image: linear-gradient(to bottom, #108cee, #014fde);}
+
+#login a {color: #333;}
+#login .forget_pass { font-size:12px;font-weight:bold;margin-top:12px;margin-bottom:8px;margin: 19px 50px 0 20px;float: right;}
+
+.login_car a{color:#2e7ecd;text-decoration:none;cursor:pointer}
+
+.input_user_mail,.input_password_user{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;box-sizing:border-box;border:1px solid #bdc7d3;width:270px;height:40px;background:#fff;*zoom:1;margin-bottom:20px;margin:0 20px 20px} 
+input{width:223px;border:0;outline:none;padding:9px;height:20px;*line-height:20px;-webkit-box-shadow:none;-moz-box-shadow:none;box-shadow:none}
+input{padding:4px 9px;height:18px;font-weight:bold;font-size:12px}
+
+.input_user_mail label,.input_password_user label, .input_user_mail input,
+.input_password_user input{float:left}.input_user_mail label, .input_password_user label{width:14px;height:14px;margin:12px 3px 0 10px;_overflow:hidden;text-indent:-999999px}
+		
+.button {padding: 9px 16px;color: white;margin-left:243px;border: 0;border-radius: 3px;text-transform: uppercase;
+text-decoration: none;font-size: 12px;font-weight: 400;line-height: 1;cursor: pointer;}
+.button.--btn_login {position:absolute;top:-80;margin-top:-25px;background: #3399ff;color: white; }
+
+  <style/>
+
+		  		<style>
+body {font-family:sans-serif;font-size: 12px;line-height: 1.5;color: rgba(0, 0, 0, 0.54);}
+h3{font-size:13px;margin-bottom:20px;color:#262626; }
+.info_page {width:100%;margin:auto; }
+.info_page {max-width: 1250px; }
+.center {text-align: center; }
+.lineUp {padding:42px 10px;border-bottom: 1px solid rgba(0, 145, 13, 0.15); }
+.page_home {margin-left:-70px;display: flex;}
+.page_home > div {padding: 10px;-webkit-flex: 1;flex:1;}
+ .page_home > div > img { margin-bottom: 20px; }
+</style>
+
+ <div class="lineUp"></div><div class="info_page center"><div class="page_home">
+   <div class=""><img src="https://d.line-scdn.net/stf/line-lp/fr_2016_01.png" width="200px">
+	<h3>Claim Your Business Number</h3>
+	<p>Add your business' contact information, correct the spelling, or add a photo!</p></div>
+	
+	<div class=""><img src="https://d.line-scdn.net/stf/lp/character%20update_0516_Img_PNG/2_LINE_Store_PNG/19_fr.png" width="200px">
+	<h3>Manage How the World Sees Your Call</h3>
+	<p>Don't be just a number! Make sure new customers and connections know it's you when you call to avoid going straight to voicemail.</p></div>
+	
+	<div class=""><img src="https://d.line-scdn.net/stf/line-lp/fr_2016_04.png" width="200px">
+	<h3>Expose Your Brand</h3>
+	<p>Over 100 million people use Truecaller! By adding your business number to Truecaller, your business can be properly identified, and discovered locally through keywords.</p>
+		</div>
+	</div>
+</div>
+	<style>
+	html,body,div,th,td{margin:0;padding:0;border:0;outline:0;}
+body{font-family:sans-serif;font-size:13px;font-weight:300;line-height:1.6;color:#546770;}
+	
+	a{font-weight:400;text-decoration:none;color:#0091ea;cursor:pointer;}
+	.header_top{margin-left:-165px;width:1225px;background:#fff;border-top:1px solid rgb(341, 248, 341);padding:4px 34px 0;display:-ms-flexbox;display:box;display:flex;-webkit-box-orient:vertical;justify-content:space-between;}
+	.header_top > div{margin-bottom:10px}.header_top{-o-box-orient:horizontal;-ms-flex-direction:row;flex-direction:row}.header_top .footer{display:inline-block;color:#333;font-weight:500;font-size:12px;padding:7px 0;margin-right:10px;}
+</style>
+<div class="header_top" style="position:absolute;top:1100px;"><div style="margin-left:0px;"><div class="footer" style="font-size:12px;font-weight:bold;color:#4d4d4d">Copyright 2015</div> 
+<a class="footer" href="h">About</a> 
+<a class="footer" href="">Press</a>
+ <a class="footer" href="">Blog</a>
+</div><div>
+<a class="footer" style="color:#0091ea" href="">Terms of service</a>
+<a class="footer" style="color:#0091ea" href="">Privacy policy</a></div></div>
+
+
